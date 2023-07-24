@@ -5,3 +5,4 @@ aaaa
 あああ
 test
 aaaaa
+aaaa
